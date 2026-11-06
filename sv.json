@@ -124,5 +124,11 @@
     "title": "canal 57",
     "file": "https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8",
     "image": "https://i.ibb.co/prNNXx7q/rtv-canal-57-sv.png"
+   },
+   {
+    "id": "23393",
+    "title": "Canal 58",
+    "file": "https://183.bozztv.com/giatv/giatv-canal58elsalvador/canal58elsalvador/playlist.m3u8",
+    "image": "https://files.catbox.moe/6s608n.png"
    }
 ]
