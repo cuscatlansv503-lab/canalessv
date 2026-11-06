@@ -118,5 +118,11 @@
     "title": "sol tv",
     "file": "https://videostream.shockmedia.com.ar/hls/canalsoltv/canalsoltv.m3u8",
     "image": "https://files.catbox.moe/6s608n.png"
+   },
+   {
+    "id": "23392",
+    "title": "canal 57",
+    "file": "https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8",
+    "image": "https://i.ibb.co/prNNXx7q/rtv-canal-57-sv.png"
    }
 ]
