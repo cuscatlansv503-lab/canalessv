@@ -113,34 +113,34 @@
     "file": "https://stream.giostreaming.app/canal11/canal11.m3u8",
     "image": "https://files.catbox.moe/6s608n.png"
   },
-   {
+  {
     "id": "23391",
     "title": "sol tv",
     "file": "https://videostream.shockmedia.com.ar/hls/canalsoltv/canalsoltv.m3u8",
     "image": "https://i.imgur.com/jaBxxpt.png"
-   },
-   {
+  },
+  {
     "id": "23392",
     "title": "canal 57",
     "file": "https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8",
     "image": "https://i.ibb.co/prNNXx7q/rtv-canal-57-sv.png"
-   },
-   {
+  },
+  {
     "id": "23393",
     "title": "Canal 58",
     "file": "https://183.bozztv.com/giatv/giatv-canal58elsalvador/canal58elsalvador/playlist.m3u8",
     "image": "https://files.catbox.moe/6s608n.png"
-   },
-   {
+  },
+  {
     "id": "23394",
     "title": "TL+ santa ana",
     "file": "https://cdn.global.elektamedia.com/live/c7eds/TLMasSV_SantaAna/SA_LIVE_hls_enc/master.m3u8",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOhkQ31fCGQsK2s6X4OvOY44dcMF_wiuKRK-OxLuLxZED_3QoVhXN1mzc&s=10"
-   },
+  },
   {
     "id": "23395",
     "title": "canal 4 op2",
     "file": "http://186.33.0.57:8000/play/a03h/index.m3u8",
     "image": "https://files.catbox.moe/sdegbw.png"
-  },
+  }
 ]
