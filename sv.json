@@ -136,5 +136,11 @@
     "title": "TL+ santa ana",
     "file": "https://cdn.global.elektamedia.com/live/c7eds/TLMasSV_SantaAna/SA_LIVE_hls_enc/master.m3u8",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOhkQ31fCGQsK2s6X4OvOY44dcMF_wiuKRK-OxLuLxZED_3QoVhXN1mzc&s=10"
-   }
+   },
+  {
+    "id": "23395",
+    "title": "canal 4 op2",
+    "file": "http://186.33.0.57:8000/play/a03h/index.m3u8",
+    "image": "https://files.catbox.moe/sdegbw.png"
+  },
 ]
