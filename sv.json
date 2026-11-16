@@ -154,5 +154,11 @@
     "title": "Wowtv",
     "file": "https://cdn1.cef-technology.com/wow/wow_tv/playlist.m3u8",
     "image": ""
+  },
+  {
+    "id": "23398",
+    "title": "Solo eventos no 24/7",
+    "file": "https://183.giatvcdn.com/ssh101/ssh101/latvgratis/playlist.m3u8",
+    "image": "https://files.catbox.moe/ilxsdb.png"
   }
 ]
