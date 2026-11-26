@@ -160,5 +160,43 @@
     "title": "Solo eventos no 24/7",
     "file": "https://stream.mux.com/ewIOcgSHMWRm8sV1QQmFZGUkEgd41kjDl02XhILMSPS00.m3u8",
     "image": "https://files.catbox.moe/ilxsdb.png"
+  },
+  
+  {
+    "id": "23386",
+    "title": "Canal 1",
+    "file": "http://45.166.93.156:9999/play/a006/index.m3u8",
+    "image": "https://files.catbox.moe/mz2t6w.jpeg"
+  },
+  {
+    "id": "23387",
+    "title": "Canal 2",
+    "file": "http://45.5.117.57:8999/play/a0hj/index.m3u8",
+    "image": "https://files.catbox.moe/mz2t6w.jpeg"
+  },
+  {
+    "id": "23388",
+    "title": "Canal 3",
+    "file": "http://45.5.117.57:8900/play/a0hj/index.m3u8",
+    "image": "https://files.catbox.moe/mz2t6w.jpeg"
+  },
+  {
+    "id": "23389",
+    "title": "Canal 4",
+    "file": "http://45.5.117.57:8200/play/a0hj/index.m3u8",
+    "image": "https://files.catbox.moe/mz2t6w.jpeg"
+  },
+  {
+    "id": "23390",
+    "title": "Canal 5",
+    "file": "http://187.245.231.226:8000/play/a0vf/index.m3u8",
+    "image": "https://files.catbox.moe/mz2t6w.jpeg"
+  },
+  {
+    "id": "23391",
+    "title": "Canal 6",
+    "file": "http://167.249.23.102:8000/play/a0ib/index.m3u8",
+    "image": "https://files.catbox.moe/mz2t6w.jpeg"
   }
+  
 ]
